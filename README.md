@@ -1,4 +1,4 @@
-👋 Hi, I’m @raphaelhanke
+👋 Hi, I’m @raphaelhanke /n
 👀 I’m interested in analytics, automation and data science in a wide range of sectors such as mobility, sustainability, health and sports.
 🌱 I’m currently learning about the role of data in the fiscal regulation of digital marketplaces.
 💞️ I’m looking to collaborate on ...
