@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raphaelhanke
-- 👀 I’m interested in analytics and data science
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in analytics, automation and data science in a wide range of sectors such as mobility, sustainability, health and sports.
+- 🌱 I’m currently learning about the role of data in the fiscal regulation of digital marketplaces.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Don't hesitate to reach out: https://www.linkedin.com/in/raphael-h-467567146/
 
 <!---
 raphaelhanke/raphaelhanke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
