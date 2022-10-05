@@ -6,7 +6,7 @@
 - <b>Master Thesis: The optimal mix in heterogeneous ensemble learners</b>
   - [Link to project](https://github.com/) _(TBD)_
 - <b>Webscraping the IKO Database</b>
-  - [Link to project](https://github.com/) _(TBD)_
+  - [Link to project](https://github.com/raphaelhanke/IKO_webscraper)
 - <b>Tax Idenftification Number (TIN) Validation with Fonoa API</b>
   - [Link to project](https://github.com/) _(TBD)_
 - <b>Object Character Recognition (OCR) on legal documents</b>
