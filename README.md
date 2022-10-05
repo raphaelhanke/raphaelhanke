@@ -4,11 +4,11 @@
 <h3> 🖋️ Selected Projects:</h3>
 
 - <b>Master Thesis: The optimal mix in heterogeneous ensemble learners</b>
-  - [Link to project](https://github.com/) _(TBD)_
+  - [Link to project](https://github.com/raphaelhanke/master_thesis_ensembles#readme)
 - <b>Webscraping the IKO Database</b>
-  - [Link to project](https://github.com/raphaelhanke/IKO_webscraper)
+  - [Link to project](https://github.com/raphaelhanke/IKO_webscraper#readme)
 - <b>Tax Idenftification Number (TIN) Validation with Fonoa API</b>
-  - [Link to project](https://github.com/raphaelhanke/fonoa)
+  - [Link to project](https://github.com/raphaelhanke/fonoa#readme)
 - <b>Object Character Recognition (OCR) on legal documents</b>
   - [Link to project](https://github.com/) _(TBD)_
 - <b>Bachelor Thesis: Rotation and extraction in factor analysis</b>
