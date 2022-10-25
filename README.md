@@ -7,6 +7,8 @@
   - [Link to project](https://github.com/raphaelhanke/master_thesis_ensembles#readme)
 - <b>Webscraping the IKO Database</b>
   - [Link to project](https://github.com/raphaelhanke/IKO_webscraper#readme)
+- <b>Webscraping World Economics Statistics</b>
+  - [Link to project](https://github.com/raphaelhanke/world_eco_webscraper#readme)
 - <b>Tax Idenftification Number (TIN) Validation with Fonoa API</b>
   - [Link to project](https://github.com/raphaelhanke/fonoa#readme)
 - <b>Object Character Recognition (OCR) on legal documents</b>
