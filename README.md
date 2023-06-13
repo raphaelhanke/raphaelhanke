@@ -11,13 +11,10 @@
 
 <h3> 🖋️  Other Projects:</h3>
 
+- [Webscraping the IKO Database](https://github.com/raphaelhanke/IKO_webscraper#readme)
+- [Webscraping World Economics Statistics](https://github.com/raphaelhanke/world_eco_webscraper#readme)
+- [Tax Identification Number (TIN) Validation with Fonoa API](https://github.com/raphaelhanke/fonoa#readme)
 
-- <b>Webscraping the IKO Database</b>
-  - [Link to project](https://github.com/raphaelhanke/IKO_webscraper#readme)
-- <b>Webscraping World Economics Statistics</b>
-  - [Link to project](https://github.com/raphaelhanke/world_eco_webscraper#readme)
-- <b>Tax Identification Number (TIN) Validation with Fonoa API</b>
-  - [Link to project](https://github.com/raphaelhanke/fonoa#readme)
 - <b>Object Character Recognition (OCR) on legal documents</b>
   - [Link to project](https://github.com/) _(TBD)_
 - <b>Building web applications with Streamlit</b>
