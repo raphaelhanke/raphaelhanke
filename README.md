@@ -1,12 +1,17 @@
 <h1>Hi, I'm Raphael! </h1>
 <h4><a href="https://github.com/raphaelhanke">My data science and automation projects:</a></h4>
 
-<h3> 🖋️  Selected Projects:</h3>
+<h3> 🖋️  Research Papers:</h3>
 
-- <b>Master Thesis Research - KU Leuven: The optimal mix in heterogeneous ensemble learners</b>
-  - [Link to project](https://github.com/raphaelhanke/master_thesis_ensembles#readme)
-- <b>Bachelor Thesis Research - HU Berlin: Comparison of factor models in exploratory factor analysis</b>
-  - [Link to project](https://github.com/raphaelhanke/bachelor_thesis_efa#readme)
+- <b>[The optimal mix in heterogeneous ensemble learners](https://github.com/raphaelhanke/master_thesis_ensembles#readme)</b> (2019, KU Leuven, Belgium)
+- <b>[Comparison of factor models in exploratory factor analysis](https://github.com/raphaelhanke/bachelor_thesis_efa#readme)</b> (2018, Humboldt University Berlin, Germany)
+
+
+
+
+<h3> 🖋️  Other Projects:</h3>
+
+
 - <b>Webscraping the IKO Database</b>
   - [Link to project](https://github.com/raphaelhanke/IKO_webscraper#readme)
 - <b>Webscraping World Economics Statistics</b>
