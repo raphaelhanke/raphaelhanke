@@ -3,8 +3,10 @@
 
 <h3> 🖋️  Selected Projects:</h3>
 
-- <b>Master Thesis: The optimal mix in heterogeneous ensemble learners</b>
+- <b>Master Thesis Research - KU Leuven: The optimal mix in heterogeneous ensemble learners</b>
   - [Link to project](https://github.com/raphaelhanke/master_thesis_ensembles#readme)
+- <b>Bachelor Thesis Research - HU Berlin: Comparison of factor models in exploratory factor analysis</b>
+  - [Link to project](https://github.com/raphaelhanke/bachelor_thesis_efa#readme)
 - <b>Webscraping the IKO Database</b>
   - [Link to project](https://github.com/raphaelhanke/IKO_webscraper#readme)
 - <b>Webscraping World Economics Statistics</b>
