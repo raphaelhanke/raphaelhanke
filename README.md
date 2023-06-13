@@ -1,7 +1,7 @@
 <h1>Hi, I'm Raphael! </h1>
 <h4><a href="https://github.com/raphaelhanke">My data science and automation projects:</a></h4>
 
-<h3> 🖋️  Research Papers:</h3>
+<h3> 🔎  Research Papers:</h3>
 
 - <b>[The optimal mix in heterogeneous ensemble learners](https://github.com/raphaelhanke/master_thesis_ensembles#readme)</b> (2019, KU Leuven, Belgium)
 - <b>[Comparison of factor models in exploratory factor analysis](https://github.com/raphaelhanke/bachelor_thesis_efa#readme)</b> (2018, Humboldt University Berlin, Germany)
