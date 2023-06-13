@@ -20,8 +20,6 @@
   - [Link to project](https://github.com/raphaelhanke/fonoa#readme)
 - <b>Object Character Recognition (OCR) on legal documents</b>
   - [Link to project](https://github.com/) _(TBD)_
-- <b>Bachelor Thesis: Rotation and extraction in factor analysis</b>
-  - [Link to project](https://github.com/) _(TBD)_
 - <b>Building web applications with Streamlit</b>
   - [Link to project](https://github.com/) _(TBD)_
 
