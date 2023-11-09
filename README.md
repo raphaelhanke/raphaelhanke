@@ -7,27 +7,13 @@
 - <b>[Comparison of factor models in exploratory factor analysis](https://github.com/raphaelhanke/bachelor_thesis_efa#readme)</b> (2018, Humboldt University Berlin, Germany)
 
 
-
-
 <h3> 🖋️  Other Projects:</h3>
 
 - [Webscraping the IKO Database](https://github.com/raphaelhanke/IKO_webscraper#readme)
 - [Webscraping World Economics Statistics](https://github.com/raphaelhanke/world_eco_webscraper#readme)
 - [Tax Identification Number (TIN) Validation with Fonoa API](https://github.com/raphaelhanke/fonoa#readme)
-
-- <b>Object Character Recognition (OCR) on legal documents</b>
-  - [Link to project](https://github.com/) _(TBD)_
-- <b>Building web applications with Streamlit</b>
-  - [Link to project](https://github.com/) _(TBD)_
-
-
-<h3> 🔱   Technologies & Packages:</h3>
-
-- <b>Python</b> 
-- <b>Jupyter Notebooks</b> 
-- <b>BeautifulSoup</b> 
-- <b>Streamlit</b> 
-- <b>Scikit Learn</b> 
+- Object Character Recognition (OCR) on legal documents (TBA)
+- Building web applications with Streamlit (TBA)
 
 
 
