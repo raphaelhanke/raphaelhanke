@@ -1,5 +1,5 @@
 <h1>Hi, I'm Raphael! </h1>
-<h4><a href="https://github.com/raphaelhanke">My data science and automation projects:</a></h4>
+<h4>My data science and automation projects:</a></h4>
 
 <h3> 🔎  Research Papers:</h3>
 
